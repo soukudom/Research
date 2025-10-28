@@ -12,7 +12,7 @@ DOI: 10.36227/techrxiv.20145539.v1
 
 [5] J. Pešek, D. Soukup and T. Čejka, "Active Learning Framework For Long-term Network Traffic Classification," 2023 IEEE 13th Annual Computing and Communication Workshop and Conference (CCWC), Las Vegas, NV, USA, 2023, pp. 0893-0899, doi: 10.1109/CCWC57344.2023.10099065.
 
-[6] https://github.com/CESNET/ALF
+[6] Active Learning Framework tool https://github.com/CESNET/ALF
 
 [7] L. Jančička, J. Koumar, D. Soukup and T. Čejka, "Analysis of Statistical Distribution Changes of Input Features in Network Traffic Classification Domain," NOMS 2024-2024 IEEE Network Operations and Management Symposium, Seoul, Korea, Republic of, 2024, pp. 1-4, doi: 10.1109/NOMS59830.2024.10575630.
 
