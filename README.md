@@ -5,7 +5,7 @@ Summary of my PhD research:
 
 [2] Soukup, D., Uhříček, D., Vašata, D., Čejka, T. (2024). Machine Learning Metrics for Network Datasets Evaluation. In: Meyer, N., Grocholewska-Czuryło, A. (eds) ICT Systems Security and Privacy Protection. SEC 2023. IFIP Advances in Information and Communication Technology, vol 679. Springer, Cham. https://doi.org/10.1007/978-3-031-56326-3_22
 
-[3] Katarzyna Wasielewska , Dominik Soukup , Tomáš Čejka , et al. Dataset Quality Assessment with Permutation Testing Showcased on Network Traffic Datasets. TechRxiv. June 29, 2022.
+[3] Katarzyna Wasielewska , Dominik Soukup , Tomáš Čejka , Jose Camacho. Dataset Quality Assessment with Permutation Testing Showcased on Network Traffic Datasets. TechRxiv. June 29, 2022.
 DOI: 10.36227/techrxiv.20145539.v1
 
 [4] https://github.com/soukudom/NDVM
